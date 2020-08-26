@@ -1,0 +1,16 @@
+{
+
+  "homepage": "http://YassineHajjiBCN.github.io/react-node-login",
+  "name": "react-node-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run deploy",
+    "deploy": "gh-pages -d builtd",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
